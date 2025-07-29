@@ -108,7 +108,7 @@ Then open the link shown in terminal in your browser.
 ---
 
 ## Acknowledgments
-- This project was developed under the guidance of Elevate Labs.
+- This project was built as part of the **Elevate Labs Internship**.
 
 ---
 
